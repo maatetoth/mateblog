@@ -601,7 +601,10 @@
 	url = https://github.com/danielkvist/hugo-piercer-theme.git
 [submodule "hugo-future-imperfect-slim"]
 	path = hugo-future-imperfect-slim
-	url = git://github.com/pacollins/hugo-future-imperfect-slim.git
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
 [submodule "twentynineteen-hugo"]
 	path = twentynineteen-hugo
 	url = https://github.com/jeremybise/twentynineteen-hugo.git
